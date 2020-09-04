@@ -1,0 +1,15 @@
+{
+    "name": "multiplicar-base",
+    "version": "1.0.0",
+    "description": "Tablas de multiplicar",
+    "main": "Tablas.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Eduardo Jímenez",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^15.4.1"
+    }
+}
