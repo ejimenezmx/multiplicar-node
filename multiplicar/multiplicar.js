@@ -12,8 +12,6 @@ let printTable = (base, limite) => {
         for (let i = 1; i <= limite; i++) {
             resultado += `${base} * ${i} = ${ base * i} \n`;
         }
-
-
         resolve(resultado);
 
     });
